@@ -1,7 +1,8 @@
 import "./App.css";
+import MainProducts from "./components/MainProducts";
 
 function App() {
-  return <div className="App">Hello</div>;
+  return <MainProducts />;
 }
 
 export default App;
